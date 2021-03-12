@@ -90,4 +90,4 @@ Git Flow
 7. PULL to the main branch in Github by clicking Pull Request tab and Merge Pull Request
     * Select YOUR main branch, not Lambda School's.
         * Then compare to your named branch.
-            * Add a collaborator/reviewer like your Peer Mentor if they agree to.
+            * Add a collaborator/reviewer like your Peer Mentor if they agree to
